@@ -1,5 +1,7 @@
 # Eclipse $BITZ Setup procedure for Ubuntu (WSL on windows)
 
+forked from another repo
+
 1. Install Rust
 ```bash 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
